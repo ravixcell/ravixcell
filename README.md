@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ravixcell/ravixcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ravixcell/ravixcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 ### 📈 GitHub stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravixcell&layout=compact"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ravixcell&theme=dracula"/></p>
 
 
