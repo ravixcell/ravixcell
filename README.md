@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 ### 📈 GitHub stats
-<p><img alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravixcell&show_icons=true&include_all_commits=true&count_private=true&theme=dark" /></p>
+<p><img alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravixcell&show_icons=true&theme=transparent" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravixcell&layout=compact"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ravixcell&theme=dracula"/></p>
 
