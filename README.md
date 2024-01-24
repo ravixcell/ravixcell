@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <p><img alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravixcell&show_icons=true&theme=transparent" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravixcell&layout=compact"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ravixcell&theme=dracula"/></p>
-*   WakaTime card
-
-![Ravi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravixcell)
-
-***
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ravixcell"/></p>
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
